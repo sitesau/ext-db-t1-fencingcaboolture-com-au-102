@@ -1,0 +1,22 @@
+{
+  "wheel_id": 535,
+  "structure": "umbrella",
+  "slug": "ext-db-t1-fencingcaboolture-com-au-102",
+  "project": "fencing-caboolture-questions-to-ask-7889e68244d44a9116f4a795f72",
+  "parent_t1_ref": "ext-db-t1-fencingcaboolture-com-au-150",
+  "node_role": "feeder",
+  "money_target": "fencingcaboolture.com.au",
+  "primary_kw": "fencing caboolture questions to ask",
+  "intended_url": "https://sitesau.github.io/ext-db-t1-fencingcaboolture-com-au-102/",
+  "tier": "T2",
+  "writeback_nonce": "57105fbe16a8b4ef",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/fencing-caboolture-a71fd23347aa68adab36f7344841d8418706310d/",
+      "anchor": "fencing caboolture",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
